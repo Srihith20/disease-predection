@@ -1,0 +1,24 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+
+To create the file:
+
+1. In your project directory, create a new file named requirements.txt.
+
+
+2. Paste the above lines into it.
+
+
+3. Save the file.
+
+
+
+Later, anyone can install all dependencies with:
+
+pip install -r requirements.txt
+
